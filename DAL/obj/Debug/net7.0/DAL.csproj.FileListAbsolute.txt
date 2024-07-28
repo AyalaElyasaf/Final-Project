@@ -1,0 +1,85 @@
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.dll
+H:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.dll
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.pdb
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\פרויקטטטטטט\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.dll
+C:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.pdb
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.dll
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.pdb
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\פרויקטטטטטט\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.dll
+D:\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.pdb
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.dll
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.pdb
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\פרויקטטטטטט\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\DAL\obj\Debug\net7.0\ref\DAL.dll

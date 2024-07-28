@@ -1,0 +1,100 @@
+C:\Users\user\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\user\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+C:\Users\user\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.dll
+C:\Users\user\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.dll
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\ref\BL.dll
+H:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.deps.json
+H:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+H:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.dll
+H:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.pdb
+H:\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.dll
+H:\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.dll
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\refint\BL.dll
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.pdb
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+H:\פרויקטטטטטט\BL\obj\Debug\net7.0\ref\BL.dll
+C:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.deps.json
+C:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+C:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.dll
+C:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.pdb
+C:\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.dll
+C:\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.pdb
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.dll
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\refint\BL.dll
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.pdb
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+C:\פרויקטטטטטט\BL\obj\Debug\net7.0\ref\BL.dll
+D:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.deps.json
+D:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+D:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.dll
+D:\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.pdb
+D:\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.dll
+D:\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.pdb
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.dll
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\refint\BL.dll
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.pdb
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\BL\obj\Debug\net7.0\ref\BL.dll
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.sourcelink.json
+D:\פרויקטטטטטט\BL\obj\Debug\net7.0\BL.csproj.Up2Date
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\bin\Debug\net7.0\BL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.csproj.Up2Date
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\BL\obj\Debug\net7.0\ref\BL.dll

@@ -1,0 +1,441 @@
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.exe
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\ref\Server.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.Development.json
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.json
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.exe
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.deps.json
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.pdb
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Core.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Identity.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Humanizer.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.CodeDom.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Memory.Data.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.dll
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.pdb
+H:\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.pdb
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.pack.json
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.build.json
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.development.json
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.dll
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\refint\Server.dll
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.pdb
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+H:\פרויקטטטטטט\Server\obj\Debug\net7.0\ref\Server.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.json
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.exe
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.deps.json
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.pdb
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Humanizer.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.dll
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.pdb
+C:\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.pdb
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.dll
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\refint\Server.dll
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.pdb
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\פרויקטטטטטט\Server\obj\Debug\net7.0\ref\Server.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.json
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.exe
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.deps.json
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.pdb
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Humanizer.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.dll
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.pdb
+D:\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.pdb
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.dll
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\refint\Server.dll
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.pdb
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.exe
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\BL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\bin\Debug\net7.0\DAL.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\אליאסף אילה\Desktop\פרויקטטטטטט\Server\obj\Debug\net7.0\ref\Server.dll
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.sourcelink.json
+D:\פרויקטטטטטט\Server\obj\Debug\net7.0\Server.csproj.Up2Date
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Server.exe
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Server.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\BL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\DAL.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\BL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.csproj.Up2Date
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\user\Desktop\לימודים כיתה יד\נסיון שחזור פרויקט\Server\obj\Debug\net7.0\ref\Server.dll
